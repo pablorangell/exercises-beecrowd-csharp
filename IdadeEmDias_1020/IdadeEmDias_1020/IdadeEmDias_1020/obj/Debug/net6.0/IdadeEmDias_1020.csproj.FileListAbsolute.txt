@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\refint\IdadeEmDias_1020.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\ref\IdadeEmDias_1020.dll

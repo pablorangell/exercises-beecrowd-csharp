@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\bin\Debug\net6.0\ValidacaoDeNota_1117.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\bin\Debug\net6.0\ValidacaoDeNota_1117.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\bin\Debug\net6.0\ValidacaoDeNota_1117.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\bin\Debug\net6.0\ValidacaoDeNota_1117.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\bin\Debug\net6.0\ValidacaoDeNota_1117.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\refint\ValidacaoDeNota_1117.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ValidacaoDeNota_1117.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ValidacaoDeNota_1117\ValidacaoDeNota_1117\ValidacaoDeNota_1117\obj\Debug\net6.0\ref\ValidacaoDeNota_1117.dll

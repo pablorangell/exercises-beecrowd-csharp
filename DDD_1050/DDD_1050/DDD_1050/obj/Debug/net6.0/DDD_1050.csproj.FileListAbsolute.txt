@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\refint\DDD_1050.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\DDD_1050\DDD_1050\DDD_1050\obj\Debug\net6.0\ref\DDD_1050.dll

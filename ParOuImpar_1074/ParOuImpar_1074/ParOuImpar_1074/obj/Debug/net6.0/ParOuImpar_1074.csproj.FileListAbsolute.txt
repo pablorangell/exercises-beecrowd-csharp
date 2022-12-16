@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\bin\Debug\net6.0\ParOuImpar_1074.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\refint\ParOuImpar_1074.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ParOuImpar_1074.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ParOuImpar_1074\ParOuImpar_1074\ParOuImpar_1074\obj\Debug\net6.0\ref\ParOuImpar_1074.dll

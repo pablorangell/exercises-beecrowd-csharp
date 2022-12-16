@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\bin\Debug\net6.0\GastoDeCombustivel_1017.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\bin\Debug\net6.0\GastoDeCombustivel_1017.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\bin\Debug\net6.0\GastoDeCombustivel_1017.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\bin\Debug\net6.0\GastoDeCombustivel_1017.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\bin\Debug\net6.0\GastoDeCombustivel_1017.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\refint\GastoDeCombustivel_1017.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\GastoDeCombustivel_1017.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\GastoDeCombustivel_1017\GastoDeCombustivel_1017\GastoDeCombustivel_1017\obj\Debug\net6.0\ref\GastoDeCombustivel_1017.dll

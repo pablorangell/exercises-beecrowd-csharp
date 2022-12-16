@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\bin\Debug\net6.0\Grenais_1131.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\bin\Debug\net6.0\Grenais_1131.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\bin\Debug\net6.0\Grenais_1131.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\bin\Debug\net6.0\Grenais_1131.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\bin\Debug\net6.0\Grenais_1131.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\refint\Grenais_1131.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\Grenais_1131.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Grenais_1131\Grenais_1131\Grenais_1131\obj\Debug\net6.0\ref\Grenais_1131.dll

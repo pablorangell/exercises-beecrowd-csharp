@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\bin\Debug\net6.0\Resto2_1075.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\refint\Resto2_1075.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\Resto2_1075.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Resto2_1075\Resto2_1075\Resto2_1075\obj\Debug\net6.0\ref\Resto2_1075.dll

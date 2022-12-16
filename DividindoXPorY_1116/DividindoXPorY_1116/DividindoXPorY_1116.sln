@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividindoXPorY_1116", "DividindoXPorY_1116\DividindoXPorY_1116.csproj", "{A494A05F-3324-4A19-9861-E3BA2E9BFCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A494A05F-3324-4A19-9861-E3BA2E9BFCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A494A05F-3324-4A19-9861-E3BA2E9BFCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A494A05F-3324-4A19-9861-E3BA2E9BFCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A494A05F-3324-4A19-9861-E3BA2E9BFCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AAD18A3-A180-4C06-866F-28286F7DFD36}
+	EndGlobalSection
+EndGlobal

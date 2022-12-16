@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\bin\Debug\net6.0\SalarioCombonus_1009.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\bin\Debug\net6.0\SalarioCombonus_1009.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\bin\Debug\net6.0\SalarioCombonus_1009.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\bin\Debug\net6.0\SalarioCombonus_1009.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\bin\Debug\net6.0\SalarioCombonus_1009.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\refint\SalarioCombonus_1009.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\SalarioCombonus_1009.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SalarioComBonus_1009\SalarioCombonus_1009\SalarioCombonus_1009\obj\Debug\net6.0\ref\SalarioCombonus_1009.dll

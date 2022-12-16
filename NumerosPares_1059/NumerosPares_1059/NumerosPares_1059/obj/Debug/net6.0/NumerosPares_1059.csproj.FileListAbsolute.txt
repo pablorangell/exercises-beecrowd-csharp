@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\refint\NumerosPares_1059.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPares_1059\NumerosPares_1059\NumerosPares_1059\obj\Debug\net6.0\ref\NumerosPares_1059.dll

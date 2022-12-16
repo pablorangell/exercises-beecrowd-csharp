@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\bin\Debug\net6.0\ConversaoDeTempo_1019.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\refint\ConversaoDeTempo_1019.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ConversaoDeTempo_1019.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\ConversaoDeTempo_1019\ConversaoDeTempo_1019\ConversaoDeTempo_1019\obj\Debug\net6.0\ref\ConversaoDeTempo_1019.dll

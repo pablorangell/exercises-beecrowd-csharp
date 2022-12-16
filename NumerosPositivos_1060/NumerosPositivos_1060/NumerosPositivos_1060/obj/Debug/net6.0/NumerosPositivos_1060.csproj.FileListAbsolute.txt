@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\bin\Debug\net6.0\NumerosPositivos_1060.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\bin\Debug\net6.0\NumerosPositivos_1060.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\bin\Debug\net6.0\NumerosPositivos_1060.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\bin\Debug\net6.0\NumerosPositivos_1060.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\bin\Debug\net6.0\NumerosPositivos_1060.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\refint\NumerosPositivos_1060.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\NumerosPositivos_1060.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\NumerosPositivos_1060\NumerosPositivos_1060\NumerosPositivos_1060\obj\Debug\net6.0\ref\NumerosPositivos_1060.dll

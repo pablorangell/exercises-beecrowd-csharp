@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\refint\OMaior_1013.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\OMaior_1013\OMaior_1013\OMaior_1013\obj\Debug\net6.0\ref\OMaior_1013.dll

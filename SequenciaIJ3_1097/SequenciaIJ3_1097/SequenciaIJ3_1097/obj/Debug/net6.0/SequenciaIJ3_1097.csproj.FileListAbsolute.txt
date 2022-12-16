@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\refint\SequenciaIJ3_1097.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ3_1097\SequenciaIJ3_1097\SequenciaIJ3_1097\obj\Debug\net6.0\ref\SequenciaIJ3_1097.dll

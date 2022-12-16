@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\bin\Debug\net6.0\Quadrante_1115.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\bin\Debug\net6.0\Quadrante_1115.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\bin\Debug\net6.0\Quadrante_1115.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\bin\Debug\net6.0\Quadrante_1115.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\bin\Debug\net6.0\Quadrante_1115.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\refint\Quadrante_1115.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\Quadrante_1115.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Quadrante_1115\Quadrante_1115\Quadrante_1115\obj\Debug\net6.0\ref\Quadrante_1115.dll

@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\bin\Debug\net6.0\MultiplosDe13_1132.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\bin\Debug\net6.0\MultiplosDe13_1132.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\bin\Debug\net6.0\MultiplosDe13_1132.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\bin\Debug\net6.0\MultiplosDe13_1132.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\bin\Debug\net6.0\MultiplosDe13_1132.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\refint\MultiplosDe13_1132.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\MultiplosDe13_1132.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MultiplosDe13_1132\MultiplosDe13_1132\MultiplosDe13_1132\obj\Debug\net6.0\ref\MultiplosDe13_1132.dll

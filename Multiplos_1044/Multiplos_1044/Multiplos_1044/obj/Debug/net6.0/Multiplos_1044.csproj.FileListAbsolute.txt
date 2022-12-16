@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\refint\Multiplos_1044.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Multiplos_1044\Multiplos_1044\Multiplos_1044\obj\Debug\net6.0\ref\Multiplos_1044.dll

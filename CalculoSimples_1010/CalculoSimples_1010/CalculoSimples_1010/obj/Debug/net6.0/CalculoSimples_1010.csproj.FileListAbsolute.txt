@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\refint\CalculoSimples_1010.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\CalculoSimples_1010\CalculoSimples_1010\CalculoSimples_1010\obj\Debug\net6.0\ref\CalculoSimples_1010.dll

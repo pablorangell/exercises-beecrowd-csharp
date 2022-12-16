@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\bin\Debug\net6.0\Intervalo2_1072.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\bin\Debug\net6.0\Intervalo2_1072.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\bin\Debug\net6.0\Intervalo2_1072.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\bin\Debug\net6.0\Intervalo2_1072.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\bin\Debug\net6.0\Intervalo2_1072.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\refint\Intervalo2_1072.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\Intervalo2_1072.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Intervalo2_1072\Intervalo2_1072\Intervalo2_1072\obj\Debug\net6.0\ref\Intervalo2_1072.dll

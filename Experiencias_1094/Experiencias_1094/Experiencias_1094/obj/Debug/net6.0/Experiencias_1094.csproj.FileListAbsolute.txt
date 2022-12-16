@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\bin\Debug\net6.0\Experiencias_1094.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\bin\Debug\net6.0\Experiencias_1094.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\bin\Debug\net6.0\Experiencias_1094.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\bin\Debug\net6.0\Experiencias_1094.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\bin\Debug\net6.0\Experiencias_1094.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\refint\Experiencias_1094.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\Experiencias_1094.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Experiencias_1094\Experiencias_1094\Experiencias_1094\obj\Debug\net6.0\ref\Experiencias_1094.dll

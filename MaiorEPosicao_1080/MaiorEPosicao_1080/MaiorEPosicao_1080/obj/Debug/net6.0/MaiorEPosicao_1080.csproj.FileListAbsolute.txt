@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\bin\Debug\net6.0\MaiorEPosicao_1080.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\refint\MaiorEPosicao_1080.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\MaiorEPosicao_1080.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\MaiorEPosicao_1080\MaiorEPosicao_1080\MaiorEPosicao_1080\obj\Debug\net6.0\ref\MaiorEPosicao_1080.dll

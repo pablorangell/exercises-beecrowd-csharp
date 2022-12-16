@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\refint\SenhaFixa_1114.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SenhaFixa_1114\SenhaFixa_1114\SenhaFixa_1114\obj\Debug\net6.0\ref\SenhaFixa_1114.dll

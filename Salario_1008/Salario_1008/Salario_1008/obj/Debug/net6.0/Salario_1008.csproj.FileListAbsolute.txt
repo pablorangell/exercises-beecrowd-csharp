@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\bin\Debug\net6.0\Salario_1008.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\bin\Debug\net6.0\Salario_1008.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\bin\Debug\net6.0\Salario_1008.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\bin\Debug\net6.0\Salario_1008.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\bin\Debug\net6.0\Salario_1008.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\refint\Salario_1008.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\Salario_1008.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Salario_1008\Salario_1008\Salario_1008\obj\Debug\net6.0\ref\Salario_1008.dll

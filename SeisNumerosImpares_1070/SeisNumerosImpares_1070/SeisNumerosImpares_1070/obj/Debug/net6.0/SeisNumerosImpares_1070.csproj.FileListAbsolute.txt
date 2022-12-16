@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\refint\SeisNumerosImpares_1070.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SeisNumerosImpares_1070\SeisNumerosImpares_1070\SeisNumerosImpares_1070\obj\Debug\net6.0\ref\SeisNumerosImpares_1070.dll

@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\bin\Debug\net6.0\AumentoDeSalario_1048.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\refint\AumentoDeSalario_1048.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\AumentoDeSalario_1048.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\AumentoDeSalario_1048\AumentoDeSalario_1048\AumentoDeSalario_1048\obj\Debug\net6.0\ref\AumentoDeSalario_1048.dll

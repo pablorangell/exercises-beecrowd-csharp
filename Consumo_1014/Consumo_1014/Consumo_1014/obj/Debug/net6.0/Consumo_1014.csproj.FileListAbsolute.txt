@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\bin\Debug\net6.0\Consumo_1014.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\bin\Debug\net6.0\Consumo_1014.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\bin\Debug\net6.0\Consumo_1014.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\bin\Debug\net6.0\Consumo_1014.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\bin\Debug\net6.0\Consumo_1014.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\refint\Consumo_1014.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\Consumo_1014.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Consumo_1014\Consumo_1014\Consumo_1014\obj\Debug\net6.0\ref\Consumo_1014.dll

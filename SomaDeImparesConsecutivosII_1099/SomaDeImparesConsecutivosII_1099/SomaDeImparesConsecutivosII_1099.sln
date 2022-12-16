@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaDeImparesConsecutivosII_1099", "SomaDeImparesConsecutivosII_1099\SomaDeImparesConsecutivosII_1099.csproj", "{F1A1C33D-536E-4767-BB77-317EC57FFE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A1C33D-536E-4767-BB77-317EC57FFE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A1C33D-536E-4767-BB77-317EC57FFE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A1C33D-536E-4767-BB77-317EC57FFE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A1C33D-536E-4767-BB77-317EC57FFE97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A812293E-520C-4B8F-9539-FA4DD84AAE31}
+	EndGlobalSection
+EndGlobal

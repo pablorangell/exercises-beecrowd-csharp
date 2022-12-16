@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\bin\Debug\net6.0\SortSimples_1042.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\refint\SortSimples_1042.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\SortSimples_1042.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SortSimples_1042\SortSimples_1042\SortSimples_1042\obj\Debug\net6.0\ref\SortSimples_1042.dll

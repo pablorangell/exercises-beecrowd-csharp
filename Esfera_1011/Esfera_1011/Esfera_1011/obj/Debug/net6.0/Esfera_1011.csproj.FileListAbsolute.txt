@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\refint\Esfera_1011.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\Esfera_1011\Esfera_1011\Esfera_1011\obj\Debug\net6.0\ref\Esfera_1011.dll

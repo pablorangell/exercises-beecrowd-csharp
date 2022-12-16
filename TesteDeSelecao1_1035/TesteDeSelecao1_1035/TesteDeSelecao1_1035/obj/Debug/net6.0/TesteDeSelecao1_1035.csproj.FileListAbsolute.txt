@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\bin\Debug\net6.0\TesteDeSelecao1_1035.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\bin\Debug\net6.0\TesteDeSelecao1_1035.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\bin\Debug\net6.0\TesteDeSelecao1_1035.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\bin\Debug\net6.0\TesteDeSelecao1_1035.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\bin\Debug\net6.0\TesteDeSelecao1_1035.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\refint\TesteDeSelecao1_1035.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\TesteDeSelecao1_1035.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\TesteDeSelecao1_1035\TesteDeSelecao1_1035\TesteDeSelecao1_1035\obj\Debug\net6.0\ref\TesteDeSelecao1_1035.dll

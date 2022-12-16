@@ -1,0 +1,15 @@
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\bin\Debug\net6.0\SequenciaIJ4_1098.exe
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\bin\Debug\net6.0\SequenciaIJ4_1098.deps.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\bin\Debug\net6.0\SequenciaIJ4_1098.runtimeconfig.json
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\bin\Debug\net6.0\SequenciaIJ4_1098.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\bin\Debug\net6.0\SequenciaIJ4_1098.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.csproj.AssemblyReference.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.AssemblyInfoInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.AssemblyInfo.cs
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.csproj.CoreCompileInputs.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\refint\SequenciaIJ4_1098.dll
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.pdb
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\SequenciaIJ4_1098.genruntimeconfig.cache
+C:\Users\prang\Documents\exercicios\Beecrowd\SequenciaIJ4_1098\SequenciaIJ4_1098\SequenciaIJ4_1098\obj\Debug\net6.0\ref\SequenciaIJ4_1098.dll
